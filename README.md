@@ -1,5 +1,4 @@
-Hi, my name is Eugene Osakovich. Currently i am investing my time to become a Machine Learning engineer (Data scientist). I've already finished almost every kaggle.com
-machine learning crash course. Now mastering my theoretical and practical knowledge by studying Machine Learning course on Coursera (by Yandex & МФТИ).
+Hi, my name is Eugene Osakovich. Currently i am investing my time to become a Python Web Developer.
 You can contact me via email: eugene.osakovich@gmail.com
 
 
